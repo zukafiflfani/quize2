@@ -1,0 +1,26 @@
+#questen{
+    border: 5px solid #234668;
+    border-radius: 15px;
+    height: 100px;
+    text-align: center;
+    padding-top: 25px;
+}
+ .options{
+     cursor: pointer;
+    align-items: center;
+    width: 50%;
+    border-radius: 15px;
+    display: flex;
+    padding: 5px;
+    justify-content: flex-start;
+    align-items: center;
+    border: 5px solid #234668;
+    cursor: pointer;
+    
+    display: block;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    margin-left: 25%;
+}  
